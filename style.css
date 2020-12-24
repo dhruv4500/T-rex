@@ -1,0 +1,9 @@
+html, body {
+  margin: 2%;
+  padding: 0;
+  background-color: lightgrey;
+}
+canvas {
+  display: block;
+  margin: 4%;
+}
